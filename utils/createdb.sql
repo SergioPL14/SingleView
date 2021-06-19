@@ -1,0 +1,2 @@
+CREATE
+DATABASE workssingleview WITH ENCODING 'UTF8';
